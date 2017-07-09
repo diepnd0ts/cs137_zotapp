@@ -1,0 +1,9 @@
+com/uci/rest/db/DatabaseConfig.class
+com/uci/rest/db/DatabaseConnector.class
+com/uci/rest/ProductResource.class
+com/uci/rest/service/ProductService.class
+com/uci/rest/OrderResource.class
+com/uci/rest/service/OrderService.class
+com/uci/rest/model/Order.class
+com/uci/rest/db/DatabaseUtils.class
+com/uci/rest/model/Product.class

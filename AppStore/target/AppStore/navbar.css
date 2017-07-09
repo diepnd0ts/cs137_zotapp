@@ -1,0 +1,74 @@
+/*Btruong's CSS Code*/
+body {margin:0;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: white;
+}
+
+.active {
+    background-color: #c9b3fa;
+    color: white;
+}
+
+
+h1 {
+    font-family: "Lucida Grande", Tahoma;
+    font-size: 25px;
+    font-weight: lighter;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    color: #8c8c8c;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    text-align: center!important;
+    letter-spacing: 0.3em;
+}
+   
+h2 {
+    font-family: Georgia,"Times New Roman",serif;
+    font-size: 14px;
+    line-height: 40px;
+    letter-spacing: 2px; 
+    margin-top: 30px;
+    text-align: center;
+    color: #4d4d4d;
+}
+
+h3 {
+    font-family: Georgia,"Times New Roman",serif;
+    font-size: 14px;
+    line-height: 40px;
+    letter-spacing: 2px; 
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    text-align: center!important;
+    color: #4d4d4d;
+}
+
+td {
+    font-family: "Lucida Grande", Tahoma;
+}

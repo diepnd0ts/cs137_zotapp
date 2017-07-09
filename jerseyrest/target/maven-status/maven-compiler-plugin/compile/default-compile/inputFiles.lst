@@ -1,0 +1,9 @@
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/db/DatabaseUtils.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/service/ProductService.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/model/Order.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/db/DatabaseConfig.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/db/DatabaseConnector.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/model/Product.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/service/OrderService.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/ProductResource.java
+/home/inf124grp16/apache-maven-3.5.0/bin/jerseyrest/src/main/java/com/uci/rest/OrderResource.java
